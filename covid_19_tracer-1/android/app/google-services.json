@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279720389873",
+    "project_id": "cobid-4c09f",
+    "storage_bucket": "cobid-4c09f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279720389873:android:f88ed3e2c2421c9ef20d50",
+        "android_client_info": {
+          "package_name": "com.MegahHolding.cobidtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279720389873-k4ijo4ntgbg0qc2bi303onsvasudkk8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCF7Bgx0t8-KxlnJRAwN27AgxyfBSmCgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279720389873-k4ijo4ntgbg0qc2bi303onsvasudkk8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
